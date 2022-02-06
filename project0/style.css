@@ -1,0 +1,13 @@
+
+h1 {
+    color: #A51C30;
+    @font-face {
+        font-family: 'Product Sans';
+        font-style: normal;
+        font-weight: 400;
+        src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/productsans/v5/HYvgU2fE2nRJvZ5JFAumwegdm0LZdjqr5-oayXSOefg.woff2) format('woff2');
+      }
+      
+}
+
+h3 { color: #bb89ca; font-family: Lora; font-size: 14 px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4 px; } 
